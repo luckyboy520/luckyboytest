@@ -8,16 +8,15 @@
         <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-	
 	func1
     <artifactId>aihuaiedu-framework</artifactId>
 	
 	<description>
 	    framework框架核心
 	</description>
-    
+    func2
     <dependencies>
-
+    func3
         <!-- SpringBoot Web容器 -->
 	     <dependency>
             <groupId>org.springframework.boot</groupId>
