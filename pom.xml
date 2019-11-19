@@ -14,9 +14,9 @@
 	<description>
 	    framework框架核心
 	</description>
-    func2
+    
     <dependencies>
-    func3
+
         <!-- SpringBoot Web容器 -->
 	     <dependency>
             <groupId>org.springframework.boot</groupId>
